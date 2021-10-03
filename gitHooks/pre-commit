@@ -1,0 +1,26 @@
+                                                                                                            
+#!/bin/bash
+
+#! Caracteres no deseados
+
+caract_search=`find  -name "*" -exec grep -r -l -I "[á,à,â,é,è,ê,í,ì,î,ó,ò,ô,ú,ù,û]" {} \;`;
+
+#!eslint , lo instlamos previamente
+eslint=`eslint '*.html'`
+
+if [ -z $caract_search ];then
+        echo "TODO OK";
+        exit 0;
+else
+        echo Error, caracteres no deseados"";
+        printf "$busqueda\n";
+        exit 1;
+fi
+
+if [ -z $eslint ];then
+        echo "OK";
+        exit 0;
+else
+        echo "Error";
+        printf "$elsint\n";
+        exi

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+npm install
+echo "node_module instalado"
+exit 0
