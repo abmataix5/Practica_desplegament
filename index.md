@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Practica control de versiones de Abel Mataix Pascual
 
-You can use the [editor on GitHub](https://github.com/abmataix5/practica_desplegament/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Que es GIT?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+GIT es un sistema de control de versiones. Esto significa que es un sistema que registra los cambios realizados sobre un archivo o conjunto de archivos a lo largo del tiempo. Este tipo de sistemas nos permiten tener un control en el tiempo de nuestro trabajo.
+
+Con GIT podemos controlar todos los cambios que realizados en nuestro código y así tener un control absoluto de todo lo que ocurre, permitiendo volver atrás en el tiempo, abrir diferentes ramas de desarrollo, etc.
 
 ### Markdown
 
