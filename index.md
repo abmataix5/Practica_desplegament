@@ -61,9 +61,39 @@ Y luego realizamos un git push -u origin 'rama' para agregarlas al repositorio r
 
 ### Funcionalidades usuario 3
 
-El usuario 3 crea una rama features/estilosCSS para su funcionalidad : 
+El usuario 3 crea una rama features/estilosCSS para su funcionalidad : (El resultado final de los ficheros añadidos, los podemos ver en el repositorio)
 
 ![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2021-32-15.png)
 
 ![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2021-40-54.png)
 
+
+## Ahora fusionaremos las ramas features con la rama develop :
+
+Para ello utilizamos -> git fetch origin -> para actualizar y luego git merge 'rama'.
+
+Como veremos a continuación pueden suirgir conflictos, que los arreglaremos facilmente.
+
+-Feature contenido HTML (Haremos lo mismo para la rama atributos html):
+
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2022-00-23.png)
+
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2022-00-2378.png)
+
+-Feature estilos CSS :
+
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2021-48-38.png)
+
+## Una vez tenemos la rama develop actualizada y fusionada , hacemos un merge con master, asi ya tenemos la rama master para producción.(Lo podemos ver en los commits del repositorio).
+
+
+## Usuario 1, etiqueta con version v1.0
+
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2022-26-40.png)
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2022-28-29.png)
+
+
+## Usuario 1, crea la rama test, para que los testers puedan probar el desarrollo.
+
+
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2022-37-00.png)
