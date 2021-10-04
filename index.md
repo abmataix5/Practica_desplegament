@@ -95,5 +95,21 @@ Como veremos a continuación pueden suirgir conflictos, que los arreglaremos fac
 
 ## Usuario 1, crea la rama test, para que los testers puedan probar el desarrollo.
 
-
 ![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2022-37-00.png)
+
+## Creación de Git Hooks
+
+-Para crear Hooks, nos iremos a la carpeta oculta .git/hooks, ahi agregaremos los siguientes hooks : 
+
+- Hook para instalar automaticamente la carpeta node_modules al realizar checkout : 
+
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2023-28-29.png)
+
+-Hook que valida que los ficheros que se vayan a subir no tengan caracteres no deseados y que los formatos de los archivos html son correctos.
+
+Para este hemos instalado el plguin eslint con : $ npm install eslint --save-dev -> lo configuramos como indicaba el link.
+
+
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2023-41-59.png)
+
+### Estos hooks estan disponibles para los demas usuario en la carpeta GitHooks.
