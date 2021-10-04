@@ -30,4 +30,23 @@ El usuario 1 crea la estructura del proyecto(con el boileplate que nos hemos dec
 ![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2019-54-30.png)
 ![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-09-30%2021-43-49.png)
 
+-El usuario 1 crea la rama develop, necesaria para seguir la metología Git Flow
+
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2019-26-58.png)
+
+### Ahora ya esta todo listo para empezar a trabajar, el usuario 2 y usuario 3, realizan un git clone del repositorio creado por el usuario 1 como vemos a continuación:
+
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2020-15-14.png)
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2020-14-59.png)
+
+- Ahora ya tenemos clonado el repositorio en el local de nuestros dos usuarios que van a trabajar en el proyecto junto al usuario 1.
+
+
+### Funcionalidades del usuario 2.
+
+Ahora el usuario 2 , crea dos ramas features, una por cada funcionalidad que va a realizar :
+
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2020-24-04.png)
+
+Y luego realizamos un git push -u origin 'rama' para agregarlas al repositorio remoto
 
