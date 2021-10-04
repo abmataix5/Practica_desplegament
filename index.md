@@ -15,3 +15,10 @@ Git Flow es la metodología que he utilizado en la creación de este proyecto, v
 En la rama master contiene el historial de lanzamiento oficial y contiene el código que está en producción.
 
 En la rama develop integraremos las nuevas funcionalidades.
+
+#Ramas feature
+
+Este tipo de ramas, se utilizan para añadir nuevas características a tu proyecto, en futuras versiones. Estas ramas, dependerán de la rama dev y se creará una por cada característica que se quiera incorporar al proyecto.
+
+
+### EXPLICACIÓN DEL PROCESO
