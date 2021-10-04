@@ -26,4 +26,4 @@ Este tipo de ramas, se utilizan para añadir nuevas características a tu proyec
 ### Usuario 1 crear el proyecto
 
 
-![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-09-30%2021-43-49.png)
+https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-09-30%2021-43-49.png
