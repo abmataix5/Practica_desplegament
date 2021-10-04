@@ -25,5 +25,9 @@ Este tipo de ramas, se utilizan para añadir nuevas características a tu proyec
 
 ### Usuario 1 crear el proyecto
 
+El usuario 1 crea la estructura del proyecto(con el boileplate que nos hemos decargado), crea el apartado Home y realiza el primer commit.
 
-https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-09-30%2021-43-49.png
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2019-54-30.png)
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-09-30%2021-43-49.png)
+
+
