@@ -6,34 +6,12 @@ GIT es un sistema de control de versiones. Esto significa que es un sistema que 
 
 Con GIT podemos controlar todos los cambios que realizados en nuestro código y así tener un control absoluto de todo lo que ocurre, permitiendo volver atrás en el tiempo, abrir diferentes ramas de desarrollo, etc.
 
-### Markdown
+### GIT FLOW
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Git Flow es la metodología que he utilizado en la creación de este proyecto, vamos a ver las distintas ramas con las que vamos a trabajar, y para que sirve caa una de ellas.
 
-```markdown
-Syntax highlighted code block
+#Rama master y develeop.
 
-# Header 1
-## Header 2
-### Header 3
+En la rama master contiene el historial de lanzamiento oficial y contiene el código que está en producción.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abmataix5/practica_desplegament/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+En la rama develop integraremos las nuevas funcionalidades.
