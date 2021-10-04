@@ -48,5 +48,22 @@ Ahora el usuario 2 , crea dos ramas features, una por cada funcionalidad que va 
 
 ![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2020-24-04.png)
 
-Y luego realizamos un git push -u origin 'rama' para agregarlas al repositorio remoto
+Y luego realizamos un git push -u origin 'rama' para agregarlas al repositorio remoto.
+
+#### Ahora, hacemos un commit de las nuevas funcionalidades.
+
+- Realizamos commit de las nuevas funcionalidades del usuario 2, las haremos cadauna en su respectiva rama, para luego cuando esten las funcionalidades finalizadas hacer un merge con la rama develop. 
+
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2021-22-25.png)
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2021-04-12.png)
+
+- La ramas del usuario 2 ya estan actualizadas con sus nuevas funcionalidades.
+
+### Funcionalidades usuario 3
+
+El usuario 3 crea una rama features/estilosCSS para su funcionalidad : 
+
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2021-32-15.png)
+
+![Alt text](https://github.com/abmataix5/practica_desplegament/blob/master/Imagenes_GPages/Captura%20de%20pantalla%20de%202021-10-03%2021-40-54.png)
 
